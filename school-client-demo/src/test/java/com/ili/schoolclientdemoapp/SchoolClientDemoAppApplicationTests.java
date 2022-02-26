@@ -1,0 +1,13 @@
+package com.ili.schoolclientdemoapp;
+
+import org.junit.jupiter.api.Test;
+import org.springframework.boot.test.context.SpringBootTest;
+
+@SpringBootTest
+class SchoolClientDemoAppApplicationTests {
+
+	@Test
+	void contextLoads() {
+	}
+
+}

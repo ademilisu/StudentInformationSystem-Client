@@ -1,0 +1,47 @@
+html, body{
+	margin-left:8%; margin-right:8%; 
+	padding:0px; 
+	font-family: Tahoma,Verdana;
+}
+
+table {   
+	border-collapse:collapse;
+	font-family: Tahoma,Verdana;
+	width:100%;
+	padding:15px 15px 15px 15px;
+}
+
+
+tr {
+	text-align:left;
+	margin-left:10px; margin-right:10px; 
+
+}
+ 	
+ 
+#wrapper {width:100%; margin-top: 0px; }
+#mainheader {width:100%; background: #090073; margin-top: 20px; text-align:right; padding:40px 15px 40px 15px;}
+#mainheader h2 {width:100%; margin:auto; text-align:center; color: #FFFFFF;}
+#header {width: 75%; float:right; text-align:center; padding: 2% 2% 2% 2%; background: #cccccc;}
+#header h3 {width: 75%; margin:auto; color: #000;}
+#left {width:15%; height:500px; float:left; background: #ffffff;}
+#right {width:75%; height: auto; margin-top:10px; float:right; text-align:left; padding: 2% 2% 2% 2%; background: #fff5dd;}
+#rightBar {width:100%; height:25px; background: #ffffff; color:#000; text-align:right; padding:10px 15px 10px 15px;}
+#right h3 {color: #000;}
+#right h5 {color: #000; text-align:left;}
+#right h3 {color: #ff5259;}
+#right #content {margin-top: 10px; text-align:left;}
+#left #content {text-align:center;}
+.add-button {
+	border: 1px solid #090073;
+	color: #ffffff; 
+	border-radius: 5px; 
+	padding: 4px; 
+	font-size: 12px;
+	font-weight: bold;
+	width: 120px; 
+	padding: 5px 10px; 
+	margin-left: 10px;
+	margin-bottom: 10px;
+	background: #ff5259;
+}
